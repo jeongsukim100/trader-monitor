@@ -1,0 +1,2 @@
+https://wikidocs.net/5856 => 주요 참고 페이지
+https://generalbulldog.tistory.com/30 => pyqt , qt 디자이너 설치
